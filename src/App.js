@@ -10,10 +10,7 @@ function App() {
   return (
     <div>
      <Navbar/>
-     <SearchBus/>
-     <DeleteBus/>
-     <AddBus/>
-     <ViewAll/>
+     
 
 
 
